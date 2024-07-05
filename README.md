@@ -83,7 +83,8 @@ HDFS에 일자별로 저장하여 관리
 
 ### PySpark를 활용한 데이터 처리 및 분석 수행
 
-![image](https://github.com/pladata-encore/DE31-3rd_team6/assets/155427737/ed91c8e1-3447-4554-b118-fb25eccdfb83)
+![image](https://github.com/pladata-encore/DE31-3rd_team6/assets/155427737/8543db47-27df-4bad-942d-847b67a2b9bf)
+
 
 ### Tableau, Power BI를 이용한 데이터 시각화 대시보드 제작
   - 태블로 링크 : https://public.tableau.com/app/profile/hyeonji.kim7672/viz/mini3_17200759216340/1?publish=yes
